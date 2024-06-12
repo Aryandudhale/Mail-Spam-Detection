@@ -1,1 +1,3 @@
 # Mail-Spam-Detection
+
+Email spam detection using machine learning involves training a machine learning algorithm to identify and sort potentially spam emails as "spam" or "not spam" based on their content and other features. This is achieved by feeding the algorithm with a large dataset of emails labeled as either spam or not spam, which allows the algorithm to identify patterns and characteristics of spam emails. There are various machine learning techniques that can be used for email spam detection, including supervised learning, unsupervised learning, and deep learning. These techniques can improve the accuracy of email spam detection and help users to better manage their email inbox.
